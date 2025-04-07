@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Menu</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1 class="main-title">Our Menu</h1>
 
+  <div class="section chicken">
+    <div class="section-title chicken-title">Chicken</div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
+    </p>
+  </div>
+
+  <div class="section beef">
+    <div class="section-title beef-title">Beef</div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
+    </p>
+  </div>
+
+  <div class="section sushi">
+    <div class="section-title sushi-title">Sushi</div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
+    </p>
+  </div>
+</body>
+</html>
