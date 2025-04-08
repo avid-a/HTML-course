@@ -1,1 +1,17 @@
+.content-box {
+  background-color: #e0e0e0;
+  padding: 20px;
+  min-height: 1000px;
+  margin-bottom: 20px;
+}
+.full-width-menu {
+  background-color: #d3d3d3;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.full-width-menu li a {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
