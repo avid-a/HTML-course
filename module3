@@ -22,5 +22,42 @@
       </div>
 
       <!-- Collapsible Menu (Visible only on mobile) -->
-      <div class="
+      <div class="collapse navbar-collapse visible-xs" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li><a href="#">Chicken</a></li>
+          <li><a href="#">Beef</a></li>
+          <li><a href="#">Sushi</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Heading -->
+  <div class="container">
+    <h1 class="text-center">Our Menu</h1>
+  </div>
+
+  <!-- Tall Section -->
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 content-box">
+        <h3 class="text-center"><strong>Chicken</strong></h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          <br><br>
+          <!-- Repeat text to make it tall -->
+          Lorem ipsum dolor sit amet... (repeat as needed or set min-height)
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>
 
